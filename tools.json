@@ -17,6 +17,19 @@
                     "authorName": "Born2Die007"
                 },
                 {
+                    "title": "DFKFoundry",
+                    "url": "https://dfkfoundry.com/",
+                    "image": "https://dfkfoundry.com/static/img/hotspot-close-up-coins.png",
+                    "description": "DFK Foundry is a 3rd party tool for use with Defi-Kingdoms, a cross-chain blockchain based game where you command your heroes in a fantasy RPG world.",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://x.com/walletcoder"
+                        }
+                    ],
+                    "authorName": "Hashcode"
+                },
+                {
                     "title": "Kingdom.Watch",
                     "url": "https://kingdom.watch/",
                     "image": "https://kingdom.watch/android-chrome-512x512.png",
